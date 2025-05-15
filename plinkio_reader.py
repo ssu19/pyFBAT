@@ -1,4 +1,4 @@
-
+# Adapted from plinkio from the following source
 # Functions for reading dosages from PLINK pgen files based on the Pgenlib Python API:
 # https://github.com/chrchang/plink-ng/blob/master/2.0/Python/python_api.txt
 
